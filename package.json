@@ -1,0 +1,23 @@
+{
+  "name": "home-wiki",
+  "version": "1.0.0",
+  "description": "装修避坑指南与全流程百科",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": [
+    "装修",
+    "家装",
+    "百科",
+    "指南"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0"
+  }
+}
